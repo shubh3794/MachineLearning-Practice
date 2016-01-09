@@ -1,0 +1,1 @@
+this repository contains the basic Machine learning algorithms from the Basic Supervised machine learning, to unsupervised(clustering) machine learning algos. We have begun by Linear regression and Multivariate regression.
